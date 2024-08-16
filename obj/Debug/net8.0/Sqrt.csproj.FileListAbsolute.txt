@@ -12,3 +12,4 @@ C:\Users\joao.pedro\source\repos\Sqrt\Sqrt\obj\Debug\net8.0\refint\Sqrt.dll
 C:\Users\joao.pedro\source\repos\Sqrt\Sqrt\obj\Debug\net8.0\Sqrt.pdb
 C:\Users\joao.pedro\source\repos\Sqrt\Sqrt\obj\Debug\net8.0\Sqrt.genruntimeconfig.cache
 C:\Users\joao.pedro\source\repos\Sqrt\Sqrt\obj\Debug\net8.0\ref\Sqrt.dll
+C:\Users\joao.pedro\source\repos\Sqrt\Sqrt\obj\Debug\net8.0\Sqrt.sourcelink.json
